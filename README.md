@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Aman Pachori
+- I’m a 2nd Year Student at IIITM Gwalior
 - 👀 I’m interested in Web development and competative coding
 - 🌱 I’m currently learning react
 - 📫 How to reach me amangirrajpachori2002@gmail.com
