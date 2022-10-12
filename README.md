@@ -1,17 +1,23 @@
 - 👋 Hi, I’m Aman Pachori
-- I’m a 2nd Year Student at IIITM Gwalior
+- I’m a 3rd Year Student at IIITM Gwalior
 - 👀 I’m interested in Web development and competative coding
 - 🌱 I’m currently learning react
 - 📫 How to reach me amangirrajpachori2002@gmail.com
 
 ###  🚀 Languages and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/plasticine/48/40C057/react.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/doodle/48/000000/svetle.png"/>
 
