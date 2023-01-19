@@ -49,22 +49,13 @@
 </div>
 <br />
 
+#  📊 My Github Stats
+
 <p align="center"> <a href="https://git.io/streak-stats"><img alt="Aman Pachori's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanPachori&show_icons=true&count_private=true&theme=nord&bg_color=0D1117&hide_border=true" /></a> </p>
 
 <br />
 
 <div align="center">
-<!--  
-# 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/AmanPachori/github-readme-stats"><img alt="Aman Pachori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmanPachori&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AmanPachori/github-readme-stats"><img alt="AmanPachori's's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPachori&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-
-<!-- <br/>
-<br/>
-<br/>
--->
 <a href="https://github.com/AmanPachori/github-readme-activity-graph"><p><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmanPachori&theme=nord&bg_color=0D1117&hide_border=true" /></p>
 
 
