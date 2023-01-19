@@ -49,7 +49,7 @@
 </div>
 <br />
 
-<p align="center"> <a href="https://git.io/streak-stats"><img alt="Aman Pachori's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanPachori&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> </p>
+<p align="center"> <a href="https://git.io/streak-stats"><img alt="Aman Pachori's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanPachori&show_icons=true&count_private=true&theme=nord&bg_color=0D1117&hide_border=true" /></a> </p>
 
 <br />
 
@@ -64,7 +64,8 @@
 <!-- <br/>
 <br/>
 <br/>
+-->
+<a href="https://github.com/AmanPachori/github-readme-activity-graph"><p><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmanPachori&theme=nord&bg_color=0D1117&hide_border=true" /></p>
 
-<a href="https://github.com/AmanPachori/github-readme-activity-graph"><img alt="Aman Pachori's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmanPachori&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 </div>
