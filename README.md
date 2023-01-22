@@ -45,6 +45,7 @@
         <img src="https://img.icons8.com/doodle/48/000000/svetle.png"/>
     <img src="https://img.icons8.com/color/48/null/typescript.png"/>
     <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
+    <img src="https://user-images.githubusercontent.com/84467090/213904581-5fd1b94a-5e35-4e54-ab01-599c8fab2a84.png"/>
 
 </div>
 <br />
