@@ -1,8 +1,8 @@
-<!-- <p align="left">
+<p align="left">
 <a href="https://github.com/gurpreet-legend/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AmanPachori">
 </a>
-    </p> -->
+    </p>
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>, I'm Aman</h1>
 <h3 align="left">A Web Deveploer from India</h3>
 
