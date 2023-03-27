@@ -9,6 +9,8 @@
 ###   🙋‍♂️ About Me
 
 
+
+
 - 👨‍💻 I’m a 3rd Year Student at **IIITM Gwalior**
  
 - 🔭 I’m currently working on **Open Source**
@@ -18,6 +20,8 @@
 - 👨‍💻 All of my projects are available at **[My Projects](https://amanpachori.vercel.app/)**
  
 - 📫 How to reach me amangirrajpachori2002@gmail.com
+
+
 
 ### Vibing to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qhkzrrg2g63fpjyn3jj2pha754&cover_image=true&theme=novatorem&show_offline=false&background_color=fefbfb&bar_color=25abef&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
