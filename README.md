@@ -25,9 +25,9 @@
 
 
 
-### Vibing to
+<!-- ### Vibing to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qhkzrrg2g63fpjyn3jj2pha754&cover_image=true&theme=novatorem&show_offline=false&background_color=fefbfb&bar_color=25abef&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+ -->
 ###  🚀 Languages and Tools
 <div>
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
