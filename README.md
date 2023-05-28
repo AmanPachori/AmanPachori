@@ -8,14 +8,6 @@
 
 ###   🙋‍♂️ About Me
 
-
-
-hi
-
-
-
-
-
 - 👨‍💻 I’m a 3rd Year Student at **IIITM Gwalior**
  
 - 🔭 I’m currently working on **Open Source**
