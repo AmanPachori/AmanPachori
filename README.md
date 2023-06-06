@@ -14,7 +14,7 @@
  
 - 🔭 I’m currently working on **Open Source**
  
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Golang**
  
 - 👨‍💻 All of my projects are available at **[My Projects](https://amanpachori.vercel.app/)**
  
