@@ -6,8 +6,6 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>, I'm Aman</h1>
 <h3 align="left">A Web Deveploer from India</h3>
 
-
-
 ###   🙋‍♂️ About Me
 
 - 👨‍💻 I’m a 3rd Year Student at **IIITM Gwalior**
