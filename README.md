@@ -14,7 +14,7 @@
  
 - 🌱 I’m currently learning **Golang**
  
-- 👨‍💻 All of my projects are available at **[My Projects](https://amanpachori.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Projects](https://portfolio-ashy-tau-59.vercel.app/)**
  
 - 📫 How to reach me amangirrajpachori2002@gmail.com
 
