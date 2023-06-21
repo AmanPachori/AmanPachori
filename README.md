@@ -4,7 +4,8 @@
 </a>
 </p>
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>, I'm Aman</h1>
-<h3 align="left">A Web Deveploer from India</h3>
+<h3 align="left">A Web Developer from India</h3>
+
 ###   🙋‍♂️ About Me
 - 👨‍💻 I’m a 3rd Year Student at **IIITM Gwalior**
  
@@ -46,6 +47,7 @@
 
 </div>
 <br />
+
 #  📊 My Github Stats
 
 <p align="center"> <a href="https://git.io/streak-stats"><img alt="Aman Pachori's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanPachori&show_icons=true&count_private=true&theme=nord&bg_color=0D1117&hide_border=true" /></a> </p>
