@@ -9,7 +9,7 @@
 <h3 align="left">A Web Developer from India</h3>
 
 ###   🙋‍♂️ About Me
-- 👨‍💻 I’m a 3rd Year Student at **IIITM Gwalior**
+- 👨‍💻 I’m a 4th Year Student at **IIITM Gwalior**
  
 - 🔭 I’m currently working on **Open Source**
  
@@ -52,14 +52,14 @@
 
 #  📊 My Github Stats
 
-<p align="center"> <a href="https://git.io/streak-stats"><img alt="Aman Pachori's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanPachori&show_icons=true&count_private=true&theme=nord&bg_color=0D1117&hide_border=true" /></a> </p>
+<p align="center"> <a href="https://git.io/streak-stats"><img alt="Aman Pachori's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanPachori&show_icons=true&count_private=true&theme=dark&bg_color=0D1117&hide_border=true" /></a> </p>
 
 <br />
 
 <div align="center">
-<a href="https://github.com/AmanPachori/github-readme-activity-graph"><p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanPachori&theme=nord&bg_color=0D1117&hide_border=true" width="100%">
-    </p>
+<!-- <a href="https://github.com/AmanPachori/github-readme-activity-graph"><p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanPachori&theme=dark&hide_border=true" width="100%">
+    </p> -->
     
 
 
