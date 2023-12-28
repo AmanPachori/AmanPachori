@@ -13,7 +13,7 @@
  
 - 🔭 I’m currently working on **Open Source**
  
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Next**
  
 - 👨‍💻 All of my projects are available at **[My Projects](https://portfolio-ashy-tau-59.vercel.app/)**
  
