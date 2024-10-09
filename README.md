@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=AmanPachori">
 </a>
 </p>
-<h1 align="left">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>, I'm Aman</h1>
+<h1 align="left">Hi I'm Aman</h1>
 <h3 align="left">A Web Developer from India</h3>
 
 ###   🙋‍♂️ About Me
