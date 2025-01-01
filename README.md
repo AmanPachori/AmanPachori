@@ -9,7 +9,7 @@
 <h3 align="left">A Web Developer from India</h3>
 
 ###   🙋‍♂️ About Me
-- 👨‍💻 I’m a 4th Year Student at **IIITM Gwalior**
+- 👨‍💻 I’m a Final Year Student at **IIITM Gwalior**
  
 - 🔭 I’m currently working on **Open Source**
  
